@@ -1,8 +1,3 @@
-/* AnnMarie Kolbl : Project 1
-ak192@zips.uakron.edu | ID:3079881
-Linked List and Array City Project
-*/
-
 #include <iostream>
 #include <string>
 #include <chrono>
